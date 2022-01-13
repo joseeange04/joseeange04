@@ -1,5 +1,5 @@
  Hi everyone 👋
-Welcome on my github profile 💻 <h1> Love Coding </h1>
+I'm Angela, welcome on my github profile 💻 <h1> Love Coding </h1>
 
 Here are some technologies that I use:
 
