@@ -9,4 +9,4 @@ Here are some technologies that I use:
 🌟DNS, DHCP, FTP, Server mail
 
 
-<h1>If you want more information, follow me please💖 </h1>
+<h1>If you want more information, follow me💖 </h1>
